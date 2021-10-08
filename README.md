@@ -12,13 +12,13 @@
 
 
 
-
 ### Connect with me:
 <a href="https://www.linkedin.com/in/vaishnavi-dhakare-2nd-6956ab203/"><img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-https://www.instagram.com/vish_6122/?utm medium=copy_link
-<a href="https://www.instagram.com/vish_6122/"><img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/vish_6122/?utm_medium=copy_link"><img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
+
+
 	
 
 ### Languages and Tools:
