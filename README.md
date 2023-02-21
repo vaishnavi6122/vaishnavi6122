@@ -1,5 +1,5 @@
 ### Hi there, I'm Vaishnavi!! 👋
-## I'm a Third year Computer Engineering Student at Pune Institute Of Computer Technology
+## I'm a Four year Computer Engineering Student at Pune Institute Of Computer Technology
 ![](https://komarev.com/ghpvc/?username=vaishnavi6122)
 
 
